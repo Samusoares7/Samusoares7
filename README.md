@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
 <a href="https://appti.me/samu">
-<img height="180cm"src="https://github-readme-stats.vercel.app/api?username=Samusoares7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--<img height="180cm"src="https://github-readme-stats.vercel.app/api?username=Samusoares7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
 <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samusoares7&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
