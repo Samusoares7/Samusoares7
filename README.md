@@ -1,32 +1,61 @@
-## Hi there 👋
-Sou o Samuel
-<!--
-**Samusoares7/Samusoares7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🧠 Samuel
+### Estudante de tecnologia com interesses em segurança e desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
-<a href="https://appti.me/samu">
-<!--<img height="180cm"src="https://github-readme-stats.vercel.app/api?username=Samusoares7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-<!--<img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samusoares7&layout=compact&langs_count=16&theme=dark"/>-->
 </div>
 
-<div  style="display: inline_block"><br>
-  <img align="center" alt="Samu-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Samu-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Samu-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Samu-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+---
+
+## 🕶️ Sobre mim
+
+
+Apaixonado por tecnologia desde cedo, sou técnico em Desenvolvimento de Sistemas, formado pela ETEC Sebrae. Meu foco está nas áreas de programação e cibersegurança, sempre movido pela curiosidade de entender como tudo funciona por trás dos panos.
+
+---
+
+## ⚙️ Tecnologias
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github)
+
 </div>
-          
-          
- 
-          
+
+---
+
+## 🧪 Projetos em destaque
+
+🔹 **WebMotos** – Loja virtual de motos  
+🔹 **LSgames** – Loja de jogos online  
+🔹 **Spotify Clone** – Projeto da Imersão Alura  
+
+
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samusoares7&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samusoares7&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## 🌐 Contato
+
+- GitHub: https://github.com/samusoares7  
+- LinkedIn: *()*
+
+---
+
+⚡ *Perfil em constante evolução.*
